@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Poppins:wght@300&display=swap");
+
+.fw-500 {
+  font-weight: 500;
+}
+.mt-60 {
+  margin-top: 6rem;
+}
+
+.link {
+  color: black;
+}
+.link:hover {
+  color: #518432;
+}
+.modeBgBlack {
+  background-color: black;
+  color: white;
+}
+.modeBgWhite {
+  background-color: #fff;
+  color: #000;
+}
+.grid2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+}
+.grid3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+}
+.ls-1 {
+  letter-spacing: 1px;
+}
